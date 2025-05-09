@@ -288,3 +288,5 @@ fi
 
 echo "Configuring $ethx ($mac_addr)..."
 
+exit 1
+
